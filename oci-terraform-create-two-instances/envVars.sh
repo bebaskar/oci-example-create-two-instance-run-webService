@@ -1,0 +1,9 @@
+export TF_VAR_tenancy_ocid=xxx
+export TF_VAR_user_ocid=xxx
+export TF_VAR_private_key_path=xxx
+export TF_VAR_region=ap-hyderabad-1
+export TF_VAR_ssh_private_key=xxx
+export TF_VAR_fingerprint=xxx
+export TF_VAR_compartment_ocid=xxx
+export TF_VAR_ssh_public_key=xxx
+export TF_VAR_subnet_ocid=xxx
